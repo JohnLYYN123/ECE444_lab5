@@ -8,3 +8,6 @@
 
 #### Pytest Passed
 ![img.png](Images/img1.png)
+
+## Database Setup
+![img.png](Images/img3.png)
