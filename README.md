@@ -15,3 +15,10 @@
 ## Template and Views
 #### pytest result
 ![img.png](Images/img4.png)
+
+## Add Some Style
+#### Added a post
+![img.png](Images/img5.png)
+
+#### Logged out
+![img.png](Images/img6.png)
