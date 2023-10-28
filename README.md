@@ -11,3 +11,7 @@
 
 ## Database Setup
 ![img.png](Images/img3.png)
+
+## Template and Views
+#### pytest result
+![img.png](Images/img4.png)
