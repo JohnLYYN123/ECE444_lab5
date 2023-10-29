@@ -32,3 +32,13 @@
 
 #### Pytest Result
 ![img.png](Images/img9.png)
+
+## Bootstrap
+#### New UI
+![img.png](Images/img10.png)
+
+## SQLAlchemy
+#### Passing all Pytest
+![img.png](Images/img11.png)
+
+## Search Page
