@@ -22,3 +22,13 @@
 
 #### Logged out
 ![img.png](Images/img6.png)
+
+## JavaScript (Part)
+#### Two Comments
+![img.png](Images/img7.png)
+
+#### Deleted a comment
+![img.png](Images/img8.png)
+
+#### Pytest Result
+![img.png](Images/img9.png)
