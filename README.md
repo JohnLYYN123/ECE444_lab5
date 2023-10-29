@@ -43,3 +43,6 @@
 
 ## Search Page
 ![img.png](Images/img12.png)
+
+## Login Restriction
+![img.png](Images/img13.png)
