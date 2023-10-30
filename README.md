@@ -70,3 +70,13 @@ a system, then the test cases that person created can be less effective.
 ### Reference: https://www.codica.com/blog/test-driven-development-benefits/
 
 
+## Test cases in Project1
+#### Screenshots
+![img.png](Images/img14.png)
+
+test_filter.py is written by me, other test files are written by my team members
+
+#### link to test cases
+https://github.com/lyfuuoo/Group14-5-Guys/blob/yihangdev/backend/tests/test_filter.py
+
+
