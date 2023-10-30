@@ -77,6 +77,5 @@ a system, then the test cases that person created can be less effective.
 test_filter.py is written by me, other test files are written by my team members
 
 #### link to test cases
-https://github.com/lyfuuoo/Group14-5-Guys/blob/yihangdev/backend/tests/test_filter.py
-
+https://github.com/lyfuuoo/Group14-5-Guys/blob/main/backend/tests/test_filter.py
 
